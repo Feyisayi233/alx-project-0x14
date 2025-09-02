@@ -169,12 +169,7 @@ Typical error responses look like this:
 
 ---
 
-## Support
 
-If you’d like to support the API creator:
-👉 [BuyMeACoffee – SAdrian13](https://www.buymeacoffee.com/SAdrian13)
-
----
 
 ```
 
